@@ -1,0 +1,72 @@
+﻿<!-- Copyright (c) Microsoft. All rights reserved. Licensed under the MIT license.
+    See full license at the bottom of this file. -->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<title>Excel Sheet Switcher Sample</title>
+	<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.4.min.js"></script>
+
+	<link href="Office.css" rel="stylesheet" type="text/css" />
+
+    <script src="https://appsforoffice.microsoft.com/lib/1.1/hosted/office.js" type="text/javascript"></script>
+
+	<!-- To enable offline debugging using a local reference to Office.js, use:                        -->
+	<!-- <script src="../../Scripts/Office/MicrosoftAjax.js" type="text/javascript"></script>  -->
+	<!-- <script src="../../Scripts/Office/1.1/office.js" type="text/javascript"></script>  -->
+
+	<link href="Common.css" rel="stylesheet" type="text/css" />
+	<script src="Notification.js" type="text/javascript"></script>
+
+	<link href="Home.css" rel="stylesheet" type="text/css" />
+	<script src="Home.js" type="text/javascript"></script>
+
+	<link rel="stylesheet" href="https://appsforoffice.microsoft.com/fabric/1.0/fabric.min.css">
+	<link rel="stylesheet" href="https://appsforoffice.microsoft.com/fabric/1.0/fabric.components.min.css">
+</head>
+<body class="ms-font-m">
+	<div id="content-header">
+		<div class="padding">
+			<h1>Welcome</h1>
+		</div>
+	</div>
+	<div id="content-main">
+		<div class="padding">
+			<p>This sample shows how to add new worksheets to the spreadsheet and then activate them using the Excel JavaScript API.</p>
+			<h3>Try it out</h3>
+			<p>Click Add Sheets once to add some new sheets to the workbook. Then click a sheet to navigate to it.</p>
+			<button class="ms-Button" id="add-sheets">Add Sheets</button>
+			<br />
+			<hr />
+			<div id="all-sheets">
+				<h3>Sheets <span><button class="ms-Button" id="refresh-button">Refresh</button></span></h3>
+				<div id="buttons-div"></div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
+<!--
+Excel-Add-in-JS-QuarterlySalesReportManifest, https://github.com/OfficeDev/Excel-Add-in-JS-QuarterlySalesReport
+
+Copyright (c) Microsoft Corporation
+
+All rights reserved.
+
+MIT License:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and
+to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial
+portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+-->
