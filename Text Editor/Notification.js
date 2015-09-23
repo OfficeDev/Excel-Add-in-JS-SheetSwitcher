@@ -36,7 +36,7 @@ var app = (function () {
 })();
 
 /*
-Excel-Add-in-JS-QuarterlySalesReportManifest, https://github.com/OfficeDev/Excel-Add-in-JS-QuarterlySalesReport
+Excel-Add-in-JS-SheetSwitcher, https://github.com/OfficeDev/Excel-Add-in-JS-SheetSwitcher
 
 Copyright (c) Microsoft Corporation
 
