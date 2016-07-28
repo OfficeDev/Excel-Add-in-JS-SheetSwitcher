@@ -16,7 +16,7 @@ Am einfachsten können Sie Ihr Add-In bereitstellen und testen, indem Sie die Da
 3.  Kopieren Sie das Manifest (SheetSwitcherManifest.xml) in eine Netzwerkfreigabe (z. B. \\\MyShare\MyManifests).
 4.  Fügen Sie den Freigabepfad, unter dem das Manifest enthalten ist, als vertrauenswürdigen App-Katalog in Excel hinzu.
 
-    a. Starten Sie Excel, und �ffnen Sie ein leeres Arbeitsblatt.  
+    a. Starten Sie Excel, und öffnen Sie ein leeres Arbeitsblatt.  
     
     b. Klicken Sie auf die Registerkarte **Datei**, und klicken Sie dann auf **Optionen**.
     
