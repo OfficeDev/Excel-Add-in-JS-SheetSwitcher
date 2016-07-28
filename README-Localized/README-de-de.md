@@ -1,8 +1,8 @@
-# Aufgabenbereich-Add-In-Beispiel f�r Arbeitsblattschnellzugriff für Excel 2016
+# Aufgabenbereich-Add-In-Beispiel für Arbeitsblattschnellzugriff für Excel 2016
 
 _Gilt für: Excel 2016_
 
-Mit diesem Aufgabenbereich-Add-In k�nnen Sie neue Arbeitsblätter zu einer Arbeitsmappe über den Aufgabebereich hinzufügen und in Excel 2016 zu den verschiedenen Arbeitsblättern navigieren. Es ist in zwei Versionen verfügbar: Text-Editor und Visual Studio.
+Mit diesem Aufgabenbereich-Add-In können Sie neue Arbeitsblätter zu einer Arbeitsmappe über den Aufgabebereich hinzufügen und in Excel 2016 zu den verschiedenen Arbeitsblättern navigieren. Es ist in zwei Versionen verfügbar: Text-Editor und Visual Studio.
 
 ![Arbeitsblatt-Schnellzugriff-Beispiel](../images/SheetSwitcher_taskpane.PNG)
 
