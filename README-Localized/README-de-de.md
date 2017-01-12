@@ -4,7 +4,7 @@ _Gilt für: Excel 2016_
 
 Mit diesem Aufgabenbereich-Add-In können Sie neue Arbeitsblätter zu einer Arbeitsmappe über den Aufgabebereich hinzufügen und in Excel 2016 zu den verschiedenen Arbeitsblättern navigieren. Es ist in zwei Versionen verfügbar: Text-Editor und Visual Studio.
 
-![Arbeitsblatt-Schnellzugriff-Beispiel](../Images/SheetSwitcher_taskpane.PNG)
+![Arbeitsblatt-Schnellzugriff-Beispiel](../images/SheetSwitcher_taskpane.PNG)
 
 ## <a name="try-it-out"></a>Probieren Sie es aus
 ### <a name="text-editor-version"></a>Text-Editor-Version
@@ -36,7 +36,7 @@ Am einfachsten können Sie Ihr Add-In bereitstellen und testen, indem Sie die Da
 
     c.  Wählen Sie **Arbeitsblatt-Schnellzugriff-Beispiel**>**Einfügen** aus. Das Add-In wird in einem Aufgabenbereich rechts neben dem aktuellen Arbeitsblatt geöffnet, wie in der folgenden Abbildung dargestellt.
 
-  ![Arbeitsblatt-Schnellzugriff-Beispiel](../Images/SheetSwitcher_taskpane.PNG)
+  ![Arbeitsblatt-Schnellzugriff-Beispiel](../images/SheetSwitcher_taskpane.PNG)
 
     d.  Klicken Sie auf die Schaltfläche **Blätter hinzufügen**. Dabei werden vierzehn neue Arbeitsblätter zur Arbeitsmappe hinzugefügt. Klicken Sie auf die Blattschaltflächen im Aufgabebereich, um zum entsprechenden Arbeitsblatt in der Arbeitsmappe zu navigieren.
 
@@ -45,7 +45,7 @@ Am einfachsten können Sie Ihr Add-In bereitstellen und testen, indem Sie die Da
 1.  Kopieren Sie das Projekt in einen lokalen Ordner, und öffnen Sie die Datei „Excel-Add-in-Sheet-Switcher.sln“ in Visual Studio.
 2.  Drücken Sie F5, um das Beispiel-Add-In zu erstellen und bereitzustellen. Excel wird gestartet und das Add-In wird in einem Aufgabenbereich rechts neben einem leeren Arbeitsblatt geöffnet, wie in der folgenden Abbildung dargestellt.
 
-  ![Arbeitsblatt-Schnellzugriff-Beispiel](../Images/SheetSwitcher_taskpane.PNG)
+  ![Arbeitsblatt-Schnellzugriff-Beispiel](../images/SheetSwitcher_taskpane.PNG)
 
 3. Klicken Sie auf die Schaltfläche **Blätter hinzufügen**. Dabei werden vierzehn neue Arbeitsblätter zur Arbeitsmappe hinzugefügt. Klicken Sie auf die Blattschaltflächen im Aufgabebereich, um zum entsprechenden Arbeitsblatt in der Arbeitsmappe zu navigieren.
 

@@ -4,7 +4,7 @@ _适用于：Excel 2016_
 
 此任务窗格外接程序使你能够通过任务窗格向工作簿添加新工作表，并轻松地导航到 Excel 2016 中不同的工作表。它有两种类型：文本编辑器和 Visual Studio。
 
-![工作表切换程序示例](../Images/SheetSwitcher_taskpane.PNG)
+![工作表切换程序示例](../images/SheetSwitcher_taskpane.PNG)
 
 ## <a name="try-it-out"></a>尝试一下
 ### <a name="text-editor-version"></a>文本编辑器版本
@@ -36,7 +36,7 @@ _适用于：Excel 2016_
 
     c.依次选择“**工作表切换程序示例**”>“**插入**”。此时，系统会在当前工作表右侧的任务窗格中打开外接程序，如下图所示。
 
-  ![工作表切换程序示例](../Images/SheetSwitcher_taskpane.PNG)
+  ![工作表切换程序示例](../images/SheetSwitcher_taskpane.PNG)
 
     d.单击“**添加工作表!**”按钮。这将向电子表格添加十四个新工作表。单击任务窗格中呈现的任一工作表按钮，在工作簿中转到相应的工作表。
 
@@ -45,7 +45,7 @@ _适用于：Excel 2016_
 1.  将项目复制到本地文件夹，并在 Visual Studio 中打开 Excel-Add-in-Sheet-Switcher.sln。
 2.  按 F5 生成并部署示例外接程序。Excel 启动并且外接程序会在空白工作簿右侧的任务窗格中打开，如下图所示。
 
-  ![工作表切换程序示例](../Images/SheetSwitcher_taskpane.PNG)
+  ![工作表切换程序示例](../images/SheetSwitcher_taskpane.PNG)
 
 3. 单击“**添加工作表!**”按钮。这将向电子表格添加十四个新工作表。单击呈现在任务窗格中的任意一个工作表按钮，以导航到工作簿中的工作表。
 

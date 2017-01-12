@@ -4,7 +4,7 @@ _適用於：Excel 2016_
 
 這個工作窗格增益集提供方法，透過工作窗格將新的工作表新增至工作表，並且可以在 Excel 2016 中輕易地瀏覽至不同的工作表。共有兩種型態︰文字編輯器和 Visual Studio。
 
-![工作表切換器範例](../Images/SheetSwitcher_taskpane.PNG)
+![工作表切換器範例](../images/SheetSwitcher_taskpane.PNG)
 
 ## <a name="try-it-out"></a>進行測試
 ### <a name="text-editor-version"></a>文字編輯器版本
@@ -36,7 +36,7 @@ _適用於：Excel 2016_
 
     c.選擇 **[工作表切換器範例]** > **[插入]**。增益集會在目前工作表右側的工作窗格中開啟，如下圖所示。
 
-  ![工作表切換器範例](../Images/SheetSwitcher_taskpane.PNG)
+  ![工作表切換器範例](../images/SheetSwitcher_taskpane.PNG)
 
     d.按一下 **[新增工作表!]** 按鈕。這樣會將十四個新的工作表新增至試算表中。按一下工作窗格中轉譯的任何工作表按鈕，以瀏覽至活頁簿中的工作表。
 
@@ -45,7 +45,7 @@ _適用於：Excel 2016_
 1.  將專案複製到本機資料夾，並在 Visual Studio 中開啟 Excel-Add-in-Sheet-Switcher.sln。
 2.  按 F5 建置及部署範例增益集。Excel 會啟動，且增益集會在工作表右側空白部分的工作窗格中開啟，如下圖所示。
 
-  ![工作表切換器範例](../Images/SheetSwitcher_taskpane.PNG)
+  ![工作表切換器範例](../images/SheetSwitcher_taskpane.PNG)
 
 3. 按一下 **[新增工作表!]** 按鈕。這樣會將十四個新的工作表新增至試算表中。按一下工作窗格中轉譯的任何工作表按鈕，以瀏覽至活頁簿中的工作表。
 

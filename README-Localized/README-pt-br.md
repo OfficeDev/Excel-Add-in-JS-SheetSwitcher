@@ -4,7 +4,7 @@ _Aplica-se a: Excel 2016_
 
 Este suplemento do painel de tarefas oferece uma maneira de adicionar novas planilhas a uma pasta de trabalho usando o painel de tarefas e navegar facilmente até as diversas planilhas do Excel 2016. Há dois tipos: o editor de texto e o Visual Studio.
 
-![Exemplo de Seletor de Planilhas](../Images/SheetSwitcher_taskpane.PNG)
+![Exemplo de Seletor de Planilhas](../images/SheetSwitcher_taskpane.PNG)
 
 ## <a name="try-it-out"></a>Experimente
 ### <a name="text-editor-version"></a>Versão do editor de texto
@@ -36,7 +36,7 @@ A maneira mais fácil de implantar e testar o suplemento é copiar os arquivos p
 
     c.  Escolha **Exemplo do Seletor de Planilhas**>**Inserir**. O suplemento abre em um painel de tarefas à direita da planilha atual, conforme mostrado na figura a seguir.
 
-  ![Exemplo de Seletor de Planilhas](../Images/SheetSwitcher_taskpane.PNG)
+  ![Exemplo de Seletor de Planilhas](../images/SheetSwitcher_taskpane.PNG)
 
     d.  Clique no botão **Add Sheets!**. Isso adicionará 14 novas folhas à planilha. Clique em qualquer um dos botões da planilha renderizados no painel de tarefas para navegar até essa planilha na pasta de trabalho.
 
@@ -45,7 +45,7 @@ A maneira mais fácil de implantar e testar o suplemento é copiar os arquivos p
 1.  Copie o projeto para uma pasta local e abra o Excel-Add-in-Sheet-Switcher.sln no Visual Studio.
 2.  Pressione F5 para criar e implantar o suplemento de exemplo. O Excel inicia e o suplemento abre em um painel de tarefas à direita da planilha em branco, conforme mostrado na figura a seguir.
 
-  ![Exemplo de Seletor de Planilhas](../Images/SheetSwitcher_taskpane.PNG)
+  ![Exemplo de Seletor de Planilhas](../images/SheetSwitcher_taskpane.PNG)
 
 3. Clique no botão **Adicionar Planilhas!**. Isso adicionará 14 novas folhas à planilha. Clique em qualquer um dos botões da planilha renderizados no painel de tarefas para navegar até essa planilha na pasta de trabalho.
 

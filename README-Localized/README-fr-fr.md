@@ -4,7 +4,7 @@ _S’applique à : Excel 2016_
 
 Ce complément de volet Office offre un moyen d’ajouter de nouvelles feuilles de calcul à un classeur via le volet Office et de naviguer facilement entre les feuilles de calcul dans Excel 2016. Il a deux versions : éditeur de texte et Visual Studio.
 
-![Exemple de sélecteur de feuilles](../Images/SheetSwitcher_taskpane.PNG)
+![Exemple de sélecteur de feuilles](../images/SheetSwitcher_taskpane.PNG)
 
 ## <a name="try-it-out"></a>Essayez !
 ### <a name="text-editor-version"></a>Version d’éditeur de texte
@@ -36,7 +36,7 @@ Pour déployer et tester votre complément, le plus simple consiste à copier le
 
     c.  Choisissez **Exemple de sélecteur de feuille**>**Insertion**. Le complément s’ouvre dans un volet Office à droite de la feuille de calcul active, comme indiqué dans l’illustration suivante.
 
-  ![Exemple de sélecteur de feuilles](../Images/SheetSwitcher_taskpane.PNG)
+  ![Exemple de sélecteur de feuilles](../images/SheetSwitcher_taskpane.PNG)
 
     d.  Cliquez sur le bouton **Ajouter des feuilles**. Cette opération ajoute 14 nouvelles feuilles à la feuille de calcul. Cliquez sur l’un des boutons correspondant à une feuille affichés dans le volet Office pour accéder à la feuille dans le classeur.
 
@@ -45,7 +45,7 @@ Pour déployer et tester votre complément, le plus simple consiste à copier le
 1.  Copiez le projet dans un dossier local et ouvrez le fichier Excel-Add-in-Sheet-Switcher.sln dans Visual Studio.
 2.  Appuyez sur F5 pour créer et déployer l’exemple de complément. Excel démarre et le complément s’ouvre dans un volet Office à droite de la feuille de calcul active, comme indiqué dans l’illustration suivante.
 
-  ![Exemple de sélecteur de feuilles](../Images/SheetSwitcher_taskpane.PNG)
+  ![Exemple de sélecteur de feuilles](../images/SheetSwitcher_taskpane.PNG)
 
 3. Cliquez sur le bouton **Ajouter des feuilles**. Cette opération ajoute 14 nouvelles feuilles à la feuille de calcul. Cliquez sur l’un des boutons correspondant à une feuille affichés dans le volet Office pour accéder à la feuille dans le classeur.
 
